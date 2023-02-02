@@ -1,6 +1,6 @@
-# Bioinformatica - Mestrado em Engenharia Biomédica
+# Bioinformática - Mestrado em Engenharia Biomédica
 
-O trabalho prático (Glioma_Analysi) foi realizado por Ana Alexandra Oliveira, Daniel Filipe Estrela, Fabiana Andrade e Paulo Sérgio Ribeiro.
+O trabalho prático (Glioma_Analysis) foi realizado por Ana Alexandra Oliveira, Daniel Filipe Estrela, Fabiana Andrade e Paulo Sérgio Ribeiro.
 
 
 Com este trabalho pretendeu-se analisar datasets de pacientes com glioma de baixo grau cerebral.
